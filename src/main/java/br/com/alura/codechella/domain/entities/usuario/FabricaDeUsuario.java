@@ -16,4 +16,5 @@ public class FabricaDeUsuario {
         this.usuario.setEndereco(new Endereco(cep, numero, complemento));
         return this.usuario;
     }
+
 }
